@@ -5,4 +5,8 @@ class HelloITI
     {
         cout<<"HelloITI";
     }
+    void Hellogit()
+    {
+        cout<<"Hello git";
+    }
 };
