@@ -7,6 +7,6 @@ class HelloITI
     }
     void Hellogit()
     {
-        cout<<"Hello git";
+        cout<<"Hello Mariem";
     }
 };
